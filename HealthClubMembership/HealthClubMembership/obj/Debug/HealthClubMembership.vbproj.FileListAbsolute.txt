@@ -1,0 +1,11 @@
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\bin\Debug\HealthClubMembership.exe.config
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\bin\Debug\HealthClubMembership.exe
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\bin\Debug\HealthClubMembership.pdb
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\bin\Debug\HealthClubMembership.xml
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\obj\Debug\HealthClubMembership.vbprojResolveAssemblyReference.cache
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\obj\Debug\HealthClubMembership.Form1.resources
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\obj\Debug\HealthClubMembership.Resources.resources
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\obj\Debug\HealthClubMembership.vbproj.GenerateResource.Cache
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\obj\Debug\HealthClubMembership.exe
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\obj\Debug\HealthClubMembership.xml
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch4\HealthClubMembership\HealthClubMembership\obj\Debug\HealthClubMembership.pdb

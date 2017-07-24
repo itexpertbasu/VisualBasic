@@ -1,0 +1,10 @@
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\bin\Debug\CarpetPriceCalculator.exe.config
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\obj\Debug\CarpetPriceCalculator.Form1.resources
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\obj\Debug\CarpetPriceCalculator.Resources.resources
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\obj\Debug\CarpetPriceCalculator.vbproj.GenerateResource.Cache
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\bin\Debug\CarpetPriceCalculator.exe
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\bin\Debug\CarpetPriceCalculator.pdb
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\bin\Debug\CarpetPriceCalculator.xml
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\obj\Debug\CarpetPriceCalculator.exe
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\obj\Debug\CarpetPriceCalculator.xml
+C:\Users\7student\Desktop\CarpetPriceCalculator\CarpetPriceCalculator\obj\Debug\CarpetPriceCalculator.pdb

@@ -1,0 +1,22 @@
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe.config
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\bin\Debug\Math Tutor.pdb
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\bin\Debug\Math Tutor.xml
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.vbprojResolveAssemblyReference.cache
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.Form1.resources
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.Resources.resources
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.vbproj.GenerateResource.Cache
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.exe
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.xml
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.pdb
+E:\ITP 112\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe.config
+E:\ITP 112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.exe
+E:\ITP 112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.xml
+E:\ITP 112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.pdb
+E:\ITP 112\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe
+E:\ITP 112\Math Tutor\Math Tutor\bin\Debug\Math Tutor.pdb
+E:\ITP 112\Math Tutor\Math Tutor\bin\Debug\Math Tutor.xml
+E:\ITP 112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.vbprojResolveAssemblyReference.cache
+E:\ITP 112\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.Form1.resources
+E:\ITP 112\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.Resources.resources
+E:\ITP 112\Math Tutor\Math Tutor\obj\Debug\Math Tutor.vbproj.GenerateResource.Cache

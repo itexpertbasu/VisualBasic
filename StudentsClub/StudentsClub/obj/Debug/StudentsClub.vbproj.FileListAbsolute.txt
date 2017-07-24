@@ -1,0 +1,10 @@
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\bin\Debug\StudentsClub.exe.config
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\bin\Debug\StudentsClub.exe
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\bin\Debug\StudentsClub.pdb
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\bin\Debug\StudentsClub.xml
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\obj\Debug\StudentsClub.Form1.resources
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\obj\Debug\StudentsClub.Resources.resources
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\obj\Debug\StudentsClub.vbproj.GenerateResource.Cache
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\obj\Debug\StudentsClub.exe
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\obj\Debug\StudentsClub.xml
+C:\Users\7student\Desktop\StudentsClub\StudentsClub\obj\Debug\StudentsClub.pdb

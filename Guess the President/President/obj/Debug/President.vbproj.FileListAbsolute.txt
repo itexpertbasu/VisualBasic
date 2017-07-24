@@ -1,0 +1,10 @@
+c:\users\7student\documents\visual studio 2013\Projects\President\President\bin\Debug\President.exe.config
+c:\users\7student\documents\visual studio 2013\Projects\President\President\bin\Debug\President.exe
+c:\users\7student\documents\visual studio 2013\Projects\President\President\bin\Debug\President.pdb
+c:\users\7student\documents\visual studio 2013\Projects\President\President\bin\Debug\President.xml
+c:\users\7student\documents\visual studio 2013\Projects\President\President\obj\Debug\President.Form1.resources
+c:\users\7student\documents\visual studio 2013\Projects\President\President\obj\Debug\President.Resources.resources
+c:\users\7student\documents\visual studio 2013\Projects\President\President\obj\Debug\President.vbproj.GenerateResource.Cache
+c:\users\7student\documents\visual studio 2013\Projects\President\President\obj\Debug\President.exe
+c:\users\7student\documents\visual studio 2013\Projects\President\President\obj\Debug\President.xml
+c:\users\7student\documents\visual studio 2013\Projects\President\President\obj\Debug\President.pdb

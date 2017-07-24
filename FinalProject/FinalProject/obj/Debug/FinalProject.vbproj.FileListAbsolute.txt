@@ -1,0 +1,10 @@
+C:\Users\7student\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\7student\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\7student\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\7student\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+C:\Users\7student\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\7student\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+C:\Users\7student\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.Cache
+C:\Users\7student\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\7student\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+C:\Users\7student\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.pdb

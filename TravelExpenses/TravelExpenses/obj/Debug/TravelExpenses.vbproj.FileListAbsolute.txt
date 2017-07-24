@@ -1,0 +1,10 @@
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\bin\Debug\TravelExpenses.exe.config
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\obj\Debug\TravelExpenses.Form1.resources
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\obj\Debug\TravelExpenses.Resources.resources
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\obj\Debug\TravelExpenses.vbproj.GenerateResource.Cache
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\bin\Debug\TravelExpenses.exe
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\bin\Debug\TravelExpenses.pdb
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\bin\Debug\TravelExpenses.xml
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\obj\Debug\TravelExpenses.exe
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\obj\Debug\TravelExpenses.xml
+C:\Users\7student\Desktop\TravelExpenses\TravelExpenses\obj\Debug\TravelExpenses.pdb

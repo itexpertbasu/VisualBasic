@@ -1,0 +1,22 @@
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.exe.config
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.exe
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.pdb
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.xml
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.ConferenceOptions.resources
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.MainForm.resources
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.Resources.resources
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.vbproj.GenerateResource.Cache
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.exe
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.xml
+c:\users\7student\documents\visual studio 2013\Projects\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.pdb
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.exe.config
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.exe
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.xml
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.pdb
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.exe
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.pdb
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\bin\Debug\ConferenceRegistration.xml
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.ConferenceOptions.resources
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.MainForm.resources
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.Resources.resources
+C:\Users\7student\Desktop\ConferenceRegistration\ConferenceRegistration\obj\Debug\ConferenceRegistration.vbproj.GenerateResource.Cache

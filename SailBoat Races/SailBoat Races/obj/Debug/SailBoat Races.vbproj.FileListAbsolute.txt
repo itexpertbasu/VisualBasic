@@ -1,0 +1,10 @@
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\bin\Debug\SailBoat Races.exe.config
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\bin\Debug\SailBoat Races.exe
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\bin\Debug\SailBoat Races.pdb
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\bin\Debug\SailBoat Races.xml
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\obj\Debug\SailBoat_Races.Form1.resources
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\obj\Debug\SailBoat_Races.Resources.resources
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\obj\Debug\SailBoat Races.vbproj.GenerateResource.Cache
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\obj\Debug\SailBoat Races.exe
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\obj\Debug\SailBoat Races.xml
+C:\Users\7student\Desktop\SailBoat Races\SailBoat Races\obj\Debug\SailBoat Races.pdb

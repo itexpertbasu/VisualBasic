@@ -1,0 +1,12 @@
+C:\Users\sb\Documents\Visual Studio 2015\Projects\ITP112\Ch3\Highlander Hotel\Highlander Hotel\bin\Debug\Highlander Hotel.exe.config
+E:\ITP 112\Highlander Hotel\Highlander Hotel\bin\Debug\Highlander Hotel.exe.config
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\bin\Debug\Highlander Hotel.exe.config
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\obj\Debug\Highlander_Hotel.Form1.resources
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\obj\Debug\Highlander_Hotel.Resources.resources
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\obj\Debug\Highlander Hotel.vbproj.GenerateResource.Cache
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\bin\Debug\Highlander Hotel.exe
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\bin\Debug\Highlander Hotel.pdb
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\bin\Debug\Highlander Hotel.xml
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\obj\Debug\Highlander Hotel.exe
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\obj\Debug\Highlander Hotel.xml
+C:\Users\7student\Desktop\Highlander Hotel\Highlander Hotel\obj\Debug\Highlander Hotel.pdb

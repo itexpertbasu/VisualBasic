@@ -1,0 +1,22 @@
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\bin\Debug\KarateDatabase.exe.config
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\bin\Debug\Karate Database.accdb
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\bin\Debug\KarateDatabase.exe
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\bin\Debug\KarateDatabase.pdb
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\bin\Debug\KarateDatabase.xml
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.Form1.resources
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.Resources.resources
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.vbproj.GenerateResource.Cache
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.exe
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.xml
+C:\Users\7student\Desktop\SB\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.pdb
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\bin\Debug\KarateDatabase.exe.config
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.exe
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.xml
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.pdb
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\bin\Debug\Karate Database.accdb
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\bin\Debug\KarateDatabase.exe
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\bin\Debug\KarateDatabase.pdb
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\bin\Debug\KarateDatabase.xml
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.Form1.resources
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.Resources.resources
+E:\ITP 112\Katate\KarateDatabase\KarateDatabase\obj\Debug\KarateDatabase.vbproj.GenerateResource.Cache
